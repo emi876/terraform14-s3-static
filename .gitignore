@@ -1,0 +1,17 @@
+# Ignore all .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Ignore local .terraform directories
+**/.terraform/*
+
+# Ignore crash logs
+crash.log
+
+# Ignore override files used to override resources locally 
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+
